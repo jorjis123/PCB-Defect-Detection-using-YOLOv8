@@ -16,6 +16,34 @@ Spur
 
 Spurious Copper
 
+
+**Here are some detection results for starters**
+
+
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/1c78432e-3fa8-4ee7-be57-e021c730717a" />
+
+
+
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/614b22ba-6aed-4ac5-9b89-95c2bc5a2e5e" />
+
+
+
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e67bc153-8841-4ec9-a651-22b3187e8080" />
+
+
+
+
+
+
+
+
+
+
+
+
 🚀 Key Features
 
 ✅ Pascal VOC → YOLO annotation conversion pipeline
@@ -64,18 +92,3 @@ Electronics / Embedded / AI Engineering
 
 
 
-**Here are some detection results for starters**
-
-
-
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/1c78432e-3fa8-4ee7-be57-e021c730717a" />
-
-
-
-
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/614b22ba-6aed-4ac5-9b89-95c2bc5a2e5e" />
-
-
-
-
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e67bc153-8841-4ec9-a651-22b3187e8080" />
