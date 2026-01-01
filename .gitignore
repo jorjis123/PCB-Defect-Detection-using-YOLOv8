@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data
+data/images/
+data/labels/
+
+# Models
+*.pt
+
+# Colab
+*.ipynb
